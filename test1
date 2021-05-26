@@ -1,0 +1,13 @@
+00 int A[5]; // Main program
+01Main ()    
+    Begin
+         …
+        04 InitAr (5); 
+        05 WriteAR(5);
+        … 
+    08 End //Main
+ 
+     09 InitAr (N)
+     {…}
+     19 WriteAr (N)
+     {… }

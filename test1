@@ -11,3 +11,6 @@
      {…}
      19 WriteAr (N)
      {… }
+     
+     int main(){
+     cout<<"welcome"}
